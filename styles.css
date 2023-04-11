@@ -1,0 +1,4 @@
+body {background-color: gray;}
+h1 {color: darkslategray;}
+h1 {class="title-1" color: darkgray;}
+.Italic { font-style: oblique;}
